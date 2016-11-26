@@ -1,5 +1,6 @@
 ﻿- Descrição:
-    	Jogo com estilo de infinity Runner, com temática regional da Amazônia, onde uma macaco em extinção corre infinitamente de um caçador e tem de desviar de diversos obstáculos para não ser pego.
+    	Jogo com estilo de infinity Runner, com temática regional da Amazônia, onde uma macaco em extinção 
+	corre infinitamente de um caçador e tem de desviar de diversos obstáculos para não ser pego.
 
 - Estilo de Jogabilidade:
     	- Infinity Runner
