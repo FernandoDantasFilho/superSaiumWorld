@@ -10,10 +10,17 @@
     	- Floresta Amazônica
 
 - Características:
-	- Personagem pula pelos obstáculos para não sofrer atraso
+	- Personagem pula pelos obstáculos para não sofrer atraso, obstáculos com características da floresta
 	- Personagem poderá coletar itens que lhe darão a função de não sofre atrasos
 	- 
 
 - Personagens:
 	- Macaco 
 	- Caçador	
+
+- Condição de Vitória:
+	- O macaco conseguir fugir do caçador, sem ser capturado.
+	- Atingir a maior distância possível
+	
+- Condição de Derrota:
+	- Quando o macaco(jogador) é capturado pelo caçador. 
