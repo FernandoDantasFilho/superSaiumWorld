@@ -4,14 +4,13 @@
 
 - Estilo de Jogabilidade:
     	- Infinity Runner
-    
-    
+        
 - Temática:
     	- Floresta Amazônica
 
 - Características:
 	- Personagem pula pelos obstáculos para não sofrer atraso, obstáculos com características da floresta
-	- Personagem poderá coletar itens que lhe darão a função de não sofre atrasos
+	- Personagem poderá um tipo de item que lhe dará a função de não sofre atrasos, mesmo que esbarre em obstáculos
 	- 
 
 - Personagens:
