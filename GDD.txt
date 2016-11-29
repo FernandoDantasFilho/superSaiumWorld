@@ -1,20 +1,21 @@
 ﻿- Descrição:
-    	Jogo com estilo de infinity Runner, com temática regional da Amazônia, onde uma macaco em extinção 
-	corre infinitamente de um caçador e tem de desviar de diversos obstáculos para não ser pego.
+    	Jogo com estilo de infinity Runner com temática de floresta baseada no game Yoshi's Island, onde o macaco saumi 	corre infinitamente de um caçador, tendo que desviar de diversos obstáculos para não retardar sua velocidade e ser 	pego.
 
 - Estilo de Jogabilidade:
     	- Infinity Runner
         
 - Temática:
-    	- Floresta Amazônica
+    	- Floresta baseada no game Yoshi's Island
 
 - Características:
-	- Personagem pula pelos obstáculos para não sofrer atraso, obstáculos com características da floresta
-	- Personagem poderá um tipo de item que lhe dará a função de não sofre atrasos, mesmo que esbarre em obstáculos
+	- Macaco Saumi pula pelos obstáculos para não sofrer atrasos.
+	- Obstáculos característicos da floresta
+	- Personagem poderá coletar frutas e que quando atingir um número específico, ele ganha uma vida.
+	- Um tipo específico de fruta lhe dará a função de não sofre atrasos, mesmo que esbarre em obstáculos.
 	- 
 
 - Personagens:
-	- Macaco 
+	- Macaco Saumir 
 	- Caçador	
 
 - Condição de Vitória:
