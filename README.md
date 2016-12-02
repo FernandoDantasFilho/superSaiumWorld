@@ -1,6 +1,6 @@
 # TheSaiumJumper
 
-![GitHub Logo](banner.jpg)
+![GitHub Logo](Banner.jpg)
 
 ## Contributors
 
