@@ -1,10 +1,15 @@
-# superSaiumWorld
+# TheSaiumJumper
 
-![Git Hub] (banner.jpg)
+![GitHub Logo](banner.jpg)
 
-# Contributors
+## Contributors
 
+[Paulo Matos](https://github.com/jrmatos)
 
-#Game 
+[Fernando Dantas](https://github.com/fernandodantasfilho)
+
+[Thiago Calazans](https://github.com/thicalazans)
+
+## Game 
 
 [Play it](https://fernandodantasfilho.github.io/superSaiumWorld/)
