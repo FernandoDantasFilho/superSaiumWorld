@@ -1,6 +1,6 @@
 # superSaiumWorld
 
-![Git Hub] (banner.jpeg)
+![Git Hub] (banner.jpg)
 
 # Contributors
 
