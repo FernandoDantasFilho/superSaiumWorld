@@ -12,4 +12,4 @@
 
 ## Game 
 
-[Play it](https://fernandodantasfilho.github.io/superSaiumWorld/)
+[Play it](https://fernandodantasfilho.github.io/theSaiumJumper/)
