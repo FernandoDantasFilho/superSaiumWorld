@@ -1,5 +1,5 @@
 ﻿- Descrição:
-    	Jogo com estilo de infinity Runner com temática de floresta baseada no game Yoshi's Island, onde o macaco saumi 	corre infinitamente de um caçador, tendo que desviar de diversos obstáculos para não retardar sua velocidade e ser 	pego.
+    	Jogo com estilo de infinity Runner com temática de floresta baseada no game Yoshi's Island, onde o macaco saumi 	corre infinitamente, tendo que desviar de diversos obstáculos para não retardar sua velocidade e morrer.
 
 - Estilo de Jogabilidade:
     	- Infinity Runner
@@ -8,19 +8,17 @@
     	- Floresta baseada no game Yoshi's Island
 
 - Características:
-	- Macaco Saumi pula pelos obstáculos para não sofrer atrasos.
+	- Macaco Saumi pula pelos obstáculos para não morrer.
 	- Obstáculos característicos da floresta
-	- Personagem poderá coletar frutas e que quando atingir um número específico, ele ganha uma vida.
-	- Um tipo específico de fruta lhe dará a função de não sofre atrasos, mesmo que esbarre em obstáculos.
-	- 
+	- A velocidade aumenta conforme a distância
+	- Personagem poderá coletar frutas e que quando atingir um número específico, ele ganha uma vida.*
+	- Um tipo específico de fruta lhe dará a função de não sofre atrasos, mesmo que esbarre em obstáculos.*
 
 - Personagens:
 	- Macaco Saumir 
-	- Caçador	
 
 - Condição de Vitória:
-	- O macaco conseguir fugir do caçador, sem ser capturado.
 	- Atingir a maior distância possível
 	
 - Condição de Derrota:
-	- Quando o macaco(jogador) é capturado pelo caçador. 
+	- Quando o macaco atingi um obstáculo. 
