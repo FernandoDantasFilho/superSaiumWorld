@@ -8,7 +8,7 @@
 
 [Fernando Dantas](https://github.com/fernandodantasfilho)
 
-[Thiago Calazans](https://github.com/thicalazans)
+* Thiago Calazans
 
 ## Game 
 
